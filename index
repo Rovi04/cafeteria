@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafeteria</title>
+</head>
+<body>
+    <header>
+        <h1 id="h-cabeza">Healthy Life</h1>
+        <nav>
+            <a href="menu 1"></a>
+            <a href="menu 2"></a>
+            <a href="menu 3"></a>
+            <a href="menu 4"></a>
+            <a href="menu 5"></a>
+            <a href="menu 6"></a>
+            <a href="menu 7"></a>
+            <a href="menu 8"></a>
+            <a href="menu 9"></a>
+            <a href="menu 10"></a>
+        </nav>
+    </header>
+    <main>
+        <h2 class="h-minicab">Menus saludables</h2>
+        <p><strong>Elige una vida saludable con nuestra variedad de menus. </strong></p>
+        <p class="p-centrado">No tines que sacrificar sabor por la salud</p>
+        <p id="p-red">Vive sano, come rico!</p>
+    </main>
+    <section>
+        <h2>
+            <div class="galeria">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_760044_116018416_1024x1024.jpg" alt="healt food">    
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_1759945_116018472_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_2759834_116018444_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_9009214_116018556_807x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_10009107_116018304_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_10759040_116018360_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_11508961_116018388_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_11758939_116018528_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_21008004_116018332_1024x1024.jpg" alt="healt food">
+            <img src="C:\Users\PILARES\Documents\ISABEL\cafeteria\imagenes\cocinillas_19258177_116018584_1024x1024.jpg" alt="healt food">
+            </div>
+        </h2>
+    </section>
+</body>
+</html>
